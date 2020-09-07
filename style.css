@@ -7,7 +7,7 @@
 }
 
 body{
-    background: linear-gradient(-40deg, #e9f9aa,#efdc61 ,#EE7752, #e73c7e, #e62da9,  #e73c7e, #EE7752, #efdc61, #e9f9aa);
+    background: linear-gradient(-40deg, #e9f9aa,#efdc61 ,#EE7752, #e73c7e,  #e73c7e, #EE7752, #efdc61, #e9f9aa);
     background-size: 400% 400%;
     position: relative;
     animation: change 20s ease-in-out infinite;
